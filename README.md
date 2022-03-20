@@ -8,11 +8,11 @@ Check out the playlist below to see this app built end-to-end from scratch.
 
 ### Team Page
 
-![Team Page Page](/README/team-page.jpg)
+![Team Page Page](/screenshot/team-page.jpg)
 
 ### Matches Page
 
-![Matches Page](/README/matches-page.jpg)
+![Matches Page](/screenshot/matches-page.jpg)
 
 ## Technologies
 
